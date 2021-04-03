@@ -1,0 +1,4 @@
+{
+    "generateExamples": false,
+    "intervalChecksFolder": "./interval-checks"
+}
